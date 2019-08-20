@@ -1,0 +1,16 @@
+{
+  "name": "mergeJsons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeJson.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
